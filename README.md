@@ -49,9 +49,10 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 
 
 # Stats
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=burnt-neon"/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=burnt-neon)
 
 # Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mabdullahatif&theme=dark"/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&theme=dark)
+
   

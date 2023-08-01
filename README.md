@@ -29,25 +29,16 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 - SQL - SQL Management Studio (1 year) 🗃️
 - PHP - (Beginner) 🚧
 - R - (Basic/Beginner) 📊
+- ## Platforms used so far 
 
-# Software Development/Computational Platforms used so far
-
-## 🛠️ Integrated Development Environments (IDEs):
-   - Dev C++
-   - Code::Blocks
-   - Visual Studio
-## ✏️ Code Editors:
-   - VS Code
-   - Jupyter Notebook
-## ☁️ Cloud-Based Collaborative Tools:
-   - Google Colaboratory (Google Colab)
-## 🗄️ Database Management:
-   - SQL Server Management Studio (SSMS)
-## 💻 Command-Line Interfaces (CLI):
-   - DOS-BOX
-## 📊 Statistical Computing:
-   - RGui (R Graphical User Interface)
-
+| Category                          | Tools                                           |
+|-----------------------------------|-------------------------------------------------|
+| 🛠️ Integrated Development Environments (IDEs) | Dev C++<br>Code::Blocks<br>Visual Studio       |
+| ✏️ Code Editors                   | VS Code<br>Jupyter Notebook                   |
+| ☁️ Cloud-Based Collaborative Tools | Google Colaboratory (Google Colab)             |
+| 🗄️ Database Management            | SQL Server Management Studio (SSMS)           |
+| 💻 Command-Line Interfaces (CLI)   | DOS-BOX                                         |
+| 📊 Statistical Computing           | RGui (R Graphical User Interface)              |
 
 
 

@@ -30,6 +30,35 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 - PHP - (Beginner) 🚧
 - R - (Basic/Beginner) 📊
 
+# Software Development/Computational Platforms used so far
+
+## 🛠️ Integrated Development Environments (IDEs):
+   - Dev C++
+   - Code::Blocks
+   - Visual Studio
+## ✏️ Code Editors:
+   - VS Code
+   - Jupyter Notebook
+## ☁️ Cloud-Based Collaborative Tools:
+   - Google Colaboratory (Google Colab)
+## 🗄️ Database Management:
+   - SQL Server Management Studio (SSMS)
+## 💻 Command-Line Interfaces (CLI):
+   - DOS-BOX
+## 📊 Statistical Computing:
+   - RGui (R Graphical User Interface)
+
+
+
+
+# Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=burnt-neon)
+
+# Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&theme=dark)
+
+
 ## LinkedIn &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Facebook &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twitter
 <a href="https://www.linkedin.com/in/muhammad-abdullah-atif/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
@@ -46,13 +75,5 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 <a href="https://www.twitter.com/abd_allah_atif/">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png"/>
 </a>
-
-
-# Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=burnt-neon)
-
-# Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&theme=dark)
 
   

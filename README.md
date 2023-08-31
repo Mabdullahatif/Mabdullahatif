@@ -42,11 +42,11 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 
 
 # Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=burnt-neon)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mabdullahatif&theme=transparent)
 
 # Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&hide_progress=false)
 
 
 ## LinkedIn &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Facebook &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twitter

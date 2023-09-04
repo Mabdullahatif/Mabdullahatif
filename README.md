@@ -46,7 +46,7 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 
 # Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&hide_progress=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&layout=donut-vertical)
 
 
 ## LinkedIn &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Facebook &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twitter

@@ -1,7 +1,6 @@
 
 <img height="300" width="1000" src="https://github.com/Mabdullahatif/Mabdullahatif/assets/113658337/dd35b673-599e-47dd-b609-b2d8d3984846"/>
 
-
 # Introduction
 
 👋 Hi there! I'm M. Abdullah Atif, a passionate Data Science student at FAST-NUCES University. Currently pursuing my Bachelor's degree in Data Science, I'm constantly honing my skills in statistics, machine learning, and data visualization.

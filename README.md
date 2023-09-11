@@ -17,7 +17,6 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 
 
 
-
 # Programming Skills 🚀
 
 - C++ (2+ years experience) 🎓

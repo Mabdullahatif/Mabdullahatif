@@ -39,8 +39,8 @@ Thank you for visiting my profile, and let's embark on a data-driven journey tog
 
 
 
-<!--# Stats-->
-<!--![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mabdullahatif&theme=onedark-duo)-->
+# Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mabdullahatif&theme=onedark-duo)
 
 # Most Used Languages
 

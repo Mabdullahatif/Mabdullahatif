@@ -1,67 +1,122 @@
 
-<img height="300" width="1000" src="https://github.com/Mabdullahatif/Mabdullahatif/assets/113658337/dd35b673-599e-47dd-b609-b2d8d3984846"/>
+<!-- <img height="300" width="1000" src="https://github.com/Mabdullahatif/Mabdullahatif/assets/113658337/dd35b673-599e-47dd-b609-b2d8d3984846"/> -->
+<h2 align="center">
+Hello visitor, I'm Muhammad Abdullah!
+</h2>
 
-# Introduction
-
-👋 Hi there! I'm M. Abdullah Atif, a passionate Data Science student at FAST-NUCES University. Currently pursuing my Bachelor's degree in Data Science, I'm constantly honing my skills in statistics, machine learning, and data visualization.
-
-## Data Science Philosophy
-
-💡 Data Science is more than a field of study for me; it's a way of thinking and problem-solving. I believe in the power of data-driven insights to drive innovation and transform businesses. With an analytical mindset, I thrive on challenges and enjoy uncovering valuable information through data analysis.
-
-## Commitment to Learning and Collaboration
-
-🚀 As the field evolves, I'm committed to continuous learning and staying updated with the latest tools and techniques. Beyond academia, my goal is to make a real-world impact through data-driven solutions and collaborations. Let's connect! I'm excited to collaborate with fellow data enthusiasts and industry professionals. Feel free to reach out for exciting opportunities.
-
-Thank you for visiting my profile, and let's embark on a data-driven journey together! 🤝
+<!-- Typing Animation -->
+<p align="center">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4000&pause=20&center=true&vCenter=true&random=false&&width=400&lines=Professional+Data+Scientist;AI+%26+Machine+Learning+Enthusiast;Always+Learning+%26+Building;Exploring+%26+Developing" alt="Typing SVG"/>
+</p>
 
 
+<div align="center">
+	<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" />
+</div>
 
-# Programming Skills 🚀
-
-- C++ (2+ years experience) 🎓
-- Python (1 year) 🐍
-- HTML/CSS (1 year) 🌐
-- Assembly Language (1 year) 💻
-- SQL - SQL Management Studio (1 year) 🗃️
-- PHP - (Beginner) 🚧
-- R - (Basic/Beginner) 📊
-- ## Platforms used so far 
-
-| Category                          | Tools                                           |
-|-----------------------------------|-------------------------------------------------|
-| 🛠️ Integrated Development Environments (IDEs) | Dev C++<br>Code::Blocks<br>Visual Studio       |
-| ✏️ Code Editors                   | VS Code<br>Jupyter Notebook                   |
-| ☁️ Cloud-Based Collaborative Tools | Google Colaboratory (Google Colab)             |
-| 🗄️ Database Management            | SQL Server Management Studio (SSMS)           |
-| 💻 Command-Line Interfaces (CLI)   | DOS-BOX                                         |
-| 📊 Statistical Computing           | RGui (R Graphical User Interface)              |
+<div align="center">
+	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="63" height="63" />
+	<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="63" height="63" />
+</div>
 
 
+## 🌟 **About Me**
 
-# Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mabdullahatif&theme=onedark-duo)
+> *"Data science is not just about numbers; it’s about uncovering stories hidden within the data."* 
 
-# Most Used Languages
+I thrive on transforming raw data into actionable insights—whether through predictive modeling, NLP applications, or automation. Bridging theory and practice drives my passion for innovation.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&layout=donut-vertical&theme=dark)
+I am a **Data Science student** at [FAST-NUCES University](https://www.nu.edu.pk/) with hands-on experience in **AI**, **Machine Learning**, and **Mobile App Development**. I enjoy solving real-world problems using data-driven approaches and building impactful projects that push boundaries.
 
 
-## LinkedIn &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Facebook &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twitter
-<a href="https://www.linkedin.com/in/muhammad-abdullah-atif/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+## 🚀 **Professional Highlights**
 
-<a href="https://www.facebook.com/abdullahatif362/">
-    <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-64.png"/>
-</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### Mobile App Developer Intern  
+**[@ Axcel Sea Shipping Co. LLC](https://www.axcelshipping.com/)** (Dubai, UAE)  
+Developed service-based mobile apps using **Flutter** and **Dart**, integrating user authentication APIs and designing intuitive UI/UX components.
 
-<a href="https://www.instagram.com/abdullah._.atif/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png"/>
-</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+### Data Science Intern  
+**[@ Euro Africa Travel Ltd](https://euroafricatravel.co.uk/)** (Lahore, Pakistan)  
+Built a data pipeline to process XML responses from SOAP APIs using **PHP** and dynamically presented structured data on the front-end. 
 
-<a href="https://www.twitter.com/abd_allah_atif/">
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png"/>
-</a>
+### Deputy Head Infrastructure Department  
+**[@ SOFTEC](https://softecnu.org/)** (Punjab, Pakistan)  
+Led a team of 20+ members to organize infrastructure for a large-scale event, showcasing leadership and project management skills.
 
+
+## 🔧 **Tech Stack**
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,fastapi,react,python,c,cplusplus,dart,javascript,typescript,r,php,go,html5,css"/>
+</p>
+
+### Development and Management Tools
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=jupyter,googlecolab,virtualbox,jira,trello,docker,git,gitlab,github"/>
+</p>
+
+### Data Science, NLP, CV and Machine Learning Tools
+<p align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=tensorflow,pytorch,keras,scikitlearn,apachehadoop,apachespark,huggingface,spacy,selenium"/>
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+
+## 🚀 **Current Focus**
+- 📚 Deepening expertise in **NLP**, **Computer Vision**, and **Generative AI**.
+- 🌐 Building scalable solutions using **Flutter** and **Streamlit**.
+- 💡 Exploring applications of **LLMs (Large Language Models)** in real-world scenarios.
+
+
+## 🏆 **Key Achievements**
+- **1st Runner-Up** Data Visualization Competition @ SOFTEC 2024  
+  Recognized for creating impactful visualizations that communicated complex insights effectively.
   
+- ### Overall Standings
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mabdullahatif&theme=vision_friendly_dark" alt="GitHub Contribution Summary" />
+  </a>
+</p>
+
+- ### GitHub Contribution Summary
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mabdullahatif&show_icons=true&theme=dark" alt="GitHub Contribution Summary" />
+  </a>
+</p>
+
+- ### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabdullahatif&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+
+## 🤝 **Let’s Connect!**
+Thank you for visiting my profile! Let’s build something amazing together. <br>
+Feel free to reach out for collaborations, discussions, or just to say hello!  
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-atif/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  <a href="https://twitter.com/abd_allah_atif">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="60" />
+  </a>
+  <a href="https://www.instagram.com/abdullah._.atif/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60" />
+  </a>
+
+</p>
